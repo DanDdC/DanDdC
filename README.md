@@ -1,6 +1,6 @@
 # Sup! I'm Daniel Donaire, nice to meet you🤙
-<h5><p align='center'> Computer Science Student at Cesar School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
-</h5>
+<h4><p align='center'> Computer Science Student at Cesar School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
+</h4>
 
 * Passionate about game development
 * Open for opportunities in collaborative projects
@@ -15,7 +15,7 @@
 
 ---
 
-<div align='center'><img src = "executor.png" alt="Executor-Class Super Star Destroyer" height="200"/></div><small>Executor-Class Super Star Destroyer </small>
+<div align='center'><img src = "executor.png" alt="Executor-Class Super Star Destroyer" height="300"/></div><small>Executor-Class Super Star Destroyer </small>
 
 ---
 
