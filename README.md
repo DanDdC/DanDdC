@@ -2,10 +2,10 @@
 <h3><p align='center'> Computer Science Student at Cesar School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
 </h3>
 
-* Passionate about game development
+* Passionate about Game Development
 * Open for opportunities in collaborative projects
 * Interested in Application Development
-* Amateur Sim Racer
+* Fun Fact: Amateur Sim Racer and Star Wars fan
 
 <div align='center'> 
 📫How to contact me:
@@ -15,7 +15,7 @@
 
 ---
 
-<div align='center'><img src = "executor.png" alt="Executor-Class Super Star Destroyer" height="300"/></div><small>Executor-Class Super Star Destroyer </small>
+<div align='center'><img src = "executor.png" alt="Executor-Class Super Star Destroyer" height="300"/></div>
 
 ---
 
