@@ -1,5 +1,5 @@
 # Sup! I'm Daniel Donaire, nice to meet you🤙
-<h3><p align='center'> Computer Science Student at Cesar School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
+<h3><p align='center'> Computer Science Student at CESAR School | GameDev | Learning Unity, C#, C, Lua/Luau and JavaScript</p>
 </h3>
 
 * Passionate about Game Development
