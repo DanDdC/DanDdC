@@ -1,7 +1,6 @@
 
 <div align='center'><img src = "DS_Banner.jpg" alt="Imperial II-class Star Destroyer"/></div>
 
----
 # Sup! I'm Daniel Donaire, nice to meet you 🤙
 
 <h3 align="center">
