@@ -1,7 +1,11 @@
+
+<div align='center'><img src = "DS_Banner.jpg" alt="Imperial II-class Star Destroyer"/></div>
+
+---
 # Sup! I'm Daniel Donaire, nice to meet you 🤙
 
 <h3 align="center">
-Computer Science Student at CESAR School | Game Developer | Web & Application Development
+Computer Science Student at CESAR School | Game Developer at FORJA Game Studio | Web & Application Development
 </h3>
 
 I'm a Computer Science student from Recife, Brazil, currently focused on game development, web development and application programming.
@@ -19,11 +23,7 @@ I'm a Computer Science student from Recife, Brazil, currently focused on game de
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldc0106@gmail.com)
 </div>
 
----
 
-<div align='center'><img src = "ISD_ultrawide.jpg" alt="Imperial II-class Star Destroyer" height="300"/></div>
-
----
 
 ## Main languages & tools:
 
