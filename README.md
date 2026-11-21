@@ -10,7 +10,7 @@ Computer Science Student at CESAR School | Game Developer at FORJA Game Studio |
 I'm a Computer Science student from Recife, Brazil, currently focused on game development, web development and application programming.
 
 - Passionate about game development and interactive experiences
-- Building games with Unity and Godot, while improving my skills in C#, C and Python
+- Building games with Unity and Godot, while improving my skills in C#, C/C++ and Python
 - Interested in building games, web apps and software development
 - Open to collaborative projects and learning opportunities
 - Gamer, Amateur sim racer and Star Wars fan
